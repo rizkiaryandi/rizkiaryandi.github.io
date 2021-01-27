@@ -79,6 +79,10 @@ html {
     background-size: cover;
 }
 
+.y-pt{
+    padding-top: 100px;
+}
+
 .y-p{
     padding-top: 100px;
 }
