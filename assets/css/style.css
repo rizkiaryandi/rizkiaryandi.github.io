@@ -78,11 +78,13 @@ html {
     margin: 0px;
     background-size: cover;
 }
-svg {
-    stroke: transparent;
-    stroke-width: 0px;
+
+.y-p{
+    padding-top: 100px;
 }
 
-.y-pt{
-    padding-top: 100px;
+@media(max-width:500px){
+    .y-p{
+        padding-top: 0px;
+    }
 }
