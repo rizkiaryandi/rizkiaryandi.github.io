@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="85.333336"
+   inkscape:export-xdpi="85.333336"
+   inkscape:export-filename="C:\Users\Aryandi\Documents\portofolio\assets\img\bwh-1.png"
+   viewBox="0 0 1440 320"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ats-1.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.80902778"
+     inkscape:cx="689.75182"
+     inkscape:cy="290.70384"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="stroke-width:0.65788"
+     fill="#4698ff"
+     fill-opacity="1"
+     d="m 1449.8884,82.391349 -80.6867,-2.274347 c -80.6867,-2.446001 -242.0601,-6.737208 -403.43347,0 -161.37339,6.994675 -322.74678,25.017788 -484.12017,34.329728 -161.37336,9.14029 -322.74676,9.14029 -403.433463,9.14029 h -80.6867 V 0 h 80.6867 C 158.9013,0 320.2747,0 481.64806,0 643.02145,0 804.39484,0 965.76823,0 1127.1416,0 1288.515,0 1369.2017,0 h 80.6867 z"
+     id="path2" />
+</svg>

@@ -71,3 +71,18 @@ html {
     display: inline;
     margin-left: 20px;
 }
+
+.waves-1{
+    width: 100vw;
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+}
+svg {
+    stroke: transparent;
+    stroke-width: 0px;
+}
+
+.y-pt{
+    padding-top: 100px;
+}
